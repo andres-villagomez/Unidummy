@@ -1,0 +1,2 @@
+E:\Instalación DELL XPS\Items Back Up\Imagine Cup\Unity Projects\AngryBots\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+E:\Instalación DELL XPS\Items Back Up\Imagine Cup\Unity Projects\AngryBots\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
